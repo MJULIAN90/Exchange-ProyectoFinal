@@ -5,6 +5,8 @@
 </p>
 
 ### STACK TECNOLÓGICO
+
+<p align="center">
  
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._mdpsmNUZ05vQb-q09t3jAHaDc%26pid%3DApi&f=1" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="JS">  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="REACT"> |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
@@ -12,7 +14,8 @@
 | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2F08f3d41684b91f7d68810459b2356ecb4819c382.png&f=1&nofb=1" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdc722jrlp2zu8.cloudfront.net%2Fmedia%2Fcache%2F6e%2Fd2%2F6ed2408abf9bd0038b587018a116879d.jpg&f=1&nofb=1" width="60" alt="CSS"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F7e%2FNode.js_logo_2015.svg%2F1280px-Node.js_logo_2015.svg.png&f=1&nofb=1" width="60" alt="JS">  | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2019%2F06%2Fexpress-js-logo.png&f=1&nofb=1" width="60" alt="REACT"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.0cAb1l3kFA_NSVB-ymRbiwHaD4%26pid%3DApi&f=1" width="60" alt="REACT"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.CQhXKdDR1iHp1Jx0OiNYYwHaDh%26pid%3DApi&f=1" width="60" alt="REACT"> |
 | SUPABASE  | SOCKET IO | NODE JS  | EXPRESS | STELLARSDK | STRIPE |
   
- 
+</p>
+  
 ********
 
 ### Metodologías ágiles 
