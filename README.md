@@ -59,10 +59,10 @@ Desarrollada de manera colaborativa entre 8 colaboradores y el team leader, real
 En la app podrás loguearte con tu cuenta de google o crear una cuetna , puedes solicitar una verificación de dos pasos, ver en tiempo real el precio de las criptomonedas y las que tienen más volumen de mercado. Además, crear tu propia wallet, ver tu balance, realizar transacciones y generar tanto depósitos como retiros bancarios.
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/76981775/130149791-4115bee9-1a9e-436c-85e4-a86a07bddfe7.png" width="22%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/76981775/130149886-29985ad9-faa0-4eef-87cb-95a06fb152f1.png" width="22%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/76981775/130149928-9cf288bd-dba1-4d64-b111-21fbe420e9e2.png" width="22%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/76981775/130150178-45cc2b08-7cc4-44f8-85e8-5da49d4047fa.png" width="22%" height='250px'>
+
+<img  src="https://user-images.githubusercontent.com/76981775/130149886-29985ad9-faa0-4eef-87cb-95a06fb152f1.png" width="30%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130149928-9cf288bd-dba1-4d64-b111-21fbe420e9e2.png" width="30%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130150178-45cc2b08-7cc4-44f8-85e8-5da49d4047fa.png" width="30%" height='250px'>
 </p>
 
 
