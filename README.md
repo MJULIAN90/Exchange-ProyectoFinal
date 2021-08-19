@@ -1,7 +1,7 @@
 
 <h1 align='center'> RocketXchange</h1>
   <p align='center'>
-  <img alt='LogoPic' src='https://github.com/andresf2448/Exchange-ProyectoFinal/blob/main/client/rocketXchange-logos/rocketXchange-logos_white.png'   width='200px' height='200px' />
+  <img alt='LogoPic' src='https://github.com/andresf2448/Exchange-ProyectoFinal/blob/main/client/rocketXchange-logos/rocketXchange-logos_white.png'   width='400px' height='400px' />
 </p>
 
 ### ¿Quienes somos?
@@ -49,6 +49,12 @@ Porque trabajamos con la red blockchain, en donde cualquier transacción es inal
 
 ### FEATURES
 Desarrollada de manera colaborativa entre 8 colaboradores y el team leader, realizando sprints semanales a un product owner donde se presentaba una demo con las nuevas funciones y características implementadas semana a semana. 
+
+<p align="center">
+<img  src="https://user-images.githubusercontent.com/76981775/130149215-bbae8143-9fed-46b6-80dd-d6ca04d000e1.png" width="30%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130149625-f01e6be0-6514-4c54-a6c1-948e3a4a601f.png" width="30%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130149667-fe25bee4-296c-4ed5-906e-7ffcecff1d5f.png" width="30%" height='250px'>
+</p>
 
 En la app podrás loguearte con tu cuenta de google o crear una cuetna , puedes solicitar una verificación de dos pasos, ver en tiempo real el precio de las criptomonedas y las que tienen más volumen de mercado. Además, crear tu propia wallet, ver tu balance, realizar transacciones y generar tanto depósitos como retiros bancarios.
 
