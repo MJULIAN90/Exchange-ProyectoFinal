@@ -61,7 +61,7 @@ En la app podrás loguearte con tu cuenta de google o crear una cuetna , puedes 
 <p align="center">
 
 <img  src="https://user-images.githubusercontent.com/76981775/130149886-29985ad9-faa0-4eef-87cb-95a06fb152f1.png" width="30%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/76981775/130149928-9cf288bd-dba1-4d64-b111-21fbe420e9e2.png" width="30%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130150818-987cbb1b-c2a6-449a-abfa-92ade339e5c9.png" width="30%" height='250px'>
 <img  src="https://user-images.githubusercontent.com/76981775/130150178-45cc2b08-7cc4-44f8-85e8-5da49d4047fa.png" width="30%" height='250px'>
 </p>
 
