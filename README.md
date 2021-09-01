@@ -1,7 +1,8 @@
 
+
 <h1 align='center'> RocketXchange</h1>
   <p align='center'>
-  <img alt='LogoPic' src='https://github.com/andresf2448/Exchange-ProyectoFinal/blob/main/client/rocketXchange-logos/rocketXchange-logos_white.png'   width='400px' height='400px' />
+  <img alt='LogoPic' src='https://user-images.githubusercontent.com/76981775/131691831-36a1f1e7-bd6d-408d-9b77-9a02e0c7d679.png'   width='400px' height='400px' />
 </p>
 
 ### ¿Quienes somos?
